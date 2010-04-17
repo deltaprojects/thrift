@@ -1,0 +1,17 @@
+Source: thrift
+Section: devel
+Priority: extra
+Maintainer: Wouter de Bie <wouter@deltaprojects.se>
+Build-Depends: debhelper (>= 7), autotools-dev, python (>= 2.6.4), autoconf (>= 2.64), sun-java6-jdk (>= 6), automake
+Standards-Version: 3.8.1
+Homepage: http://incubator.apache.org/thrift/
+
+Package: thrift
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends},libboost-filesystem1.40.0 (>= 1.40.0), libboost-system1.40.0 (>= 1.40.0), mono-gmcs (>= 2.4.2.3), libevent-1.4-2 (>= 1.4.11), python (>= 2.6.4), sun-java6-jdk (>= 6)
+Description: Cross-language service framework
+ Thrift is a software framework for scalable cross-language 
+ services development. It combines a software stack with a 
+ code generation engine to build services that work efficiently 
+ and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, 
+ Haskell, C#, Cocoa, Smalltalk, and OCaml.

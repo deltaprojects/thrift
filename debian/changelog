@@ -1,0 +1,32 @@
+thrift (20080411-r930898-6) karmic; urgency=low
+
+  * Fixed debian build
+
+ --  Wouter de Bie <wouter@deltaprojects.se>  Sun, 11 Apr 2010 00:54:56 +0200
+thrift (20080411-r930898-5) karmic; urgency=low
+
+  * Added build dependencies
+
+ --  Wouter de Bie <wouter@deltaprojects.se>  Sun, 11 Apr 2010 00:54:56 +0200
+thrift (20080411-r930898-4) karmic; urgency=low
+
+  * Added build dependencies
+
+ --  Wouter de Bie <wouter@deltaprojects.se>  Sun, 11 Apr 2010 00:54:56 +0200
+thrift (20080411-r930898-3) karmic; urgency=low
+
+  * Changed to disto karmic
+
+ --  Wouter de Bie <wouter@deltaprojects.se>  Sun, 11 Apr 2010 00:54:56 +0200
+
+thrift (20080411-r930898-2) unstable; urgency=low
+
+  * Added python dependencies
+
+ --  Wouter de Bie <wouter@deltaprojects.se>  Sun, 11 Apr 2010 00:54:56 +0200
+
+thrift (20080411-r930898-1) unstable; urgency=low
+
+  * Initial release
+
+ --  Wouter de Bie <wouter@deltaprojects.se>  Sun, 11 Apr 2010 00:54:56 +0200
