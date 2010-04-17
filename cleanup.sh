@@ -56,4 +56,10 @@ missing \
 ylwrap \
 if/gen-* \
 test/gen-* \
-lib/java/debian/ivy
+lib/java/debian/ivy \
+aclocal/libtool.m4 \
+aclocal/ltoptions.m4 \
+aclocal/ltsugar.m4 \
+aclocal/ltversion.m4 \
+aclocal/lt~obsolete.m4 \
+lib/rb/ext/Makefile
